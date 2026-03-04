@@ -1,12 +1,8 @@
-categories: ["cs.CV", "cs.LG", "cs.AI"]
+categories: ["q-bio.GN", "q-bio.PE", "q-bio.QM"]
 keywords:
-  - "open vocabulary"
-  - "open-vocabulary"
-  - "open vocabulary segmentation"
-  - "open-vocabulary segmentation"
-  - "vision language model"
-  - "training-free"
-  - "training free"
+  - "phage"
+  - "AHPND"
+  - "PirAB"
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
